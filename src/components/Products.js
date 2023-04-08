@@ -476,7 +476,7 @@ Free Delivery
 </div>
 <div className="pro-ratings">
   <div className="pro-ratings-styling">
-3.9 <i className="fa-sharp fa-solid fa-star fa-2xs" ></i>
+5 <i className="fa-sharp fa-solid fa-star fa-2xs" ></i>
 </div>
 </div>
 </div>
