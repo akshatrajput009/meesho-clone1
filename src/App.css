@@ -5,8 +5,17 @@
   display : none;
   
 }
+.for-mobile{
+  display:block;
+}
 }
 
+
+@media(min-width : 451px){
+  .for-mobile{
+    display:none;
+  }
+}
 
 body{line-height: 1.5;
 }
