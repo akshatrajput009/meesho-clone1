@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/meesho-clone1/static/css/main.98cc53d7.css",
+    "main.js": "/meesho-clone1/static/js/main.515a877f.js",
+    "static/js/787.3dce9a58.chunk.js": "/meesho-clone1/static/js/787.3dce9a58.chunk.js",
+    "index.html": "/meesho-clone1/index.html",
+    "main.98cc53d7.css.map": "/meesho-clone1/static/css/main.98cc53d7.css.map",
+    "main.515a877f.js.map": "/meesho-clone1/static/js/main.515a877f.js.map",
+    "787.3dce9a58.chunk.js.map": "/meesho-clone1/static/js/787.3dce9a58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98cc53d7.css",
+    "static/js/main.515a877f.js"
+  ]
+}
