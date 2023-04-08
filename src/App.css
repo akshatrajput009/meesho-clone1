@@ -1,4 +1,15 @@
-body{line-height: 1.5;}
+
+@media (max-width : 450px){
+
+.view{
+  display : none;
+  
+}
+}
+
+
+body{line-height: 1.5;
+}
 .bar
 
 .bar-link{margin:0 15px;
@@ -411,6 +422,7 @@ height : 180px;
 padding: 20px 20px 30px 20px;
 min-height: 150px;
 
+
 }
 
 .pro-price{
@@ -510,6 +522,7 @@ margin: 0 20px;
   border-radius: 4px;
   border: 1px solid rgb(240, 240, 240);
   margin: 20px;
+  min-width: 120px;
   
  
   
